@@ -1,0 +1,12 @@
+.list-inline {
+  margin: -6px 0px 0px 0px !important;
+}
+
+.list-inline-item {
+  margin: 0px !important;
+}
+
+span {
+  font-size: 25px;
+  cursor: pointer;
+}
